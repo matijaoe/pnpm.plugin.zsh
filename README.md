@@ -1,4 +1,4 @@
-### pnpm Oh My Zsh plugin
+# pnpm Oh My Zsh plugin
 
 
 ## Installation

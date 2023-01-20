@@ -44,4 +44,4 @@ alias pc='pnpm create'
 
 # Custom
 alias pnuke='rm -rf node_modules/ pnpm-lock.yaml'
-alias pnrc='echo --shamefully-hoist=true > .npmrc'
+alias pnrc='echo shamefully-hoist=true > .npmrc'
