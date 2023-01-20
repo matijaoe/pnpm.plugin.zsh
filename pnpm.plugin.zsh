@@ -29,6 +29,7 @@ alias pdx='pnpm dlx'
 
 # Run package.json scripts
 alias pd='pnpm dev'
+alias pdo='pnpm dev --open'
 alias pb='pnpm build'
 alias pst='pnpm start'
 alias psv='pnpm serve'
