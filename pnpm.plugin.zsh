@@ -17,9 +17,9 @@ alias puil='pnpm update --interactive --latest'
 
 # Global dependencies
 alias pga='pnpm add --global'
-alias pgls='pnpm list --global'
 alias pgrm='pnpm remove --global'
 alias pgu='pnpm update --global'
+alias pgls='pnpm list --global'
 
 # Run scripts
 alias pr='pnpm run'
